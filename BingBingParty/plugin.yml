@@ -1,0 +1,13 @@
+name: BingBingParty
+author: "bingbing"
+version: "1.0.0_BETA"
+api: [1.0.0, 2.0.0, 3.0.0, 3.0.1]
+main: bingbing\BingBingParty
+
+commands:
+ 초대수락:
+  default: false
+ 초대거절:
+  default: false
+ 파티:
+  default: false
